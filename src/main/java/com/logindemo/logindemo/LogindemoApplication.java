@@ -8,5 +8,6 @@ public class LogindemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LogindemoApplication.class, args);
+
 	}
 }
